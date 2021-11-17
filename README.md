@@ -16,5 +16,5 @@ You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](http
 
 ![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/HellbladeUltrawide/total?style=flat-square)
 
-## Credits
+### Credits
 The field of view calculation formula implementation was inspired by killer-m's work.
