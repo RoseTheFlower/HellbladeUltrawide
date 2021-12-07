@@ -1,8 +1,8 @@
-## Hellblade: Senua's Sacrifice Ultrawide and FOV fixes
-![](preview.jpg)
+## Hellblade: Senua's Sacrifice FOV changer
 
-The tool perfectly corrects the field of view reduction affecting the game at 21:9 and wider resolutions since the Enhanced update.
-Additionally, it allows to adjust the field of view at any aspect ratio in real time.
+The game was [updated](https://store.steampowered.com/news/app/414340/view/3126057906323904820) with official ultrawide support on December 7, 2021, making the original solution posted here obsolete.
+
+The new version of the tool is a simple field of view changer for any resolution.
 
 1. [Download](/../../releases) and unpack the archive.
 2. Launch the game first, followed by the tool.
@@ -10,11 +10,8 @@ Additionally, it allows to adjust the field of view at any aspect ratio in real 
 
 All trainers based on CE components may trigger some anti-virus software.
 
-Tested on the latest Steam version at 2560x1080, 3840x1080, and 5760x1080.
-
-You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
+Tested on the latest Steam version at 2560x1080 and 11520x1080.
 
 ![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/HellbladeUltrawide/total?style=flat-square)
 
-### Credits
-The field of view calculation formula implementation was inspired by killer-m's work.
+![](preview.jpg)
